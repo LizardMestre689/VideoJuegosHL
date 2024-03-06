@@ -3,7 +3,9 @@
 **Mateo Mestre**
 
 ---
-![Sin título](https://github.com/LizardMestre689/VideoJuegosHL/assets/144990985/a7da1c22-6a67-4aaa-a093-6c0ef1219205)
+
+![Sin título](https://github.com/LizardMestre689/VideoJuegosHL/assets/144990985/925e799c-c4d9-4a28-950f-db32cee4f19d)
+
 
 ---
 
