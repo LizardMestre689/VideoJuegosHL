@@ -10,9 +10,9 @@
 ---
 
 ## Teacher repository and classmates
-- [d-prieto]()
-- [axckzz]()
-- [ahong2006]()
-- [LuyiLin06]()
-- [lizardMestre689]()
+- [d-prieto](https://github.com/d-prieto/J25-videogames)
+- [axckzz](https://github.com/axckzz/J25-VideoGames)
+- [ahong2006](https://github.com/ahong2006/VideoGames)
+- [LuyiLin06](https://github.com/LuyiLin06/Videogames-Subject)
+- [LizardMestre689](https://github.com/LizardMestre689/VideoJuegosHL)
 - [Spaikyjordi](https://github.com/Spaikyjordi/Videojuegos-Jordi)
