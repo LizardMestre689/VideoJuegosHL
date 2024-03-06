@@ -4,7 +4,7 @@
 
 ---
 
-![download](https://github.com/LizardMestre689/VideoJuegosHL/assets/144990985/8a281841-2e91-4018-8d15-7c876725698d)
+![20231019178135_5](https://github.com/LizardMestre689/VideoJuegosHL/assets/144990985/fb0e2a9b-2483-488a-9b39-d01a98d2f3d5)
 
 
 ---
