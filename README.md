@@ -3,8 +3,7 @@
 **Mateo Mestre**
 
 ---
-
-![TomNookGIF](https://github.com/LizardMestre689/VideoJuegosHL/assets/144990985/eef221ea-cb6e-4670-be88-3cb25dc6c58b)
+![Sin título](https://github.com/LizardMestre689/VideoJuegosHL/assets/144990985/a7da1c22-6a67-4aaa-a093-6c0ef1219205)
 
 ---
 
