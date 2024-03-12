@@ -47,6 +47,9 @@ Se refiere al permiso que se le envía a un banco para dar permiso para seguir c
 El valor de una criptomoneda no es estable con el tiempo, y no puede implementarse con éxito como moneda, también es más difícil de rastrear a diferencia de las transacciones de cuentas bancarias. 
 
 
+![image](https://github.com/LizardMestre689/VideoJuegosHL/assets/144990985/dd9fdf6b-8263-42d7-a88f-227f8625b37a)
+
+
 
 ### **NFT (Non Fungible Token)** 
 
