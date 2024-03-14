@@ -1,4 +1,4 @@
-# Boceto de Historia
+  # Boceto de Historia
 ## Por: Mateo
 ---
 
@@ -9,7 +9,7 @@ Introduccion: Juan decide hacer un viaje por el pais de España y tiene que deci
 - ### Moto:
   Comienza el Viaje y decide irse a Galicia en moto.
 
-  Si decide ir a Galicia en moto ira a comprar un poncho para realizar el viaje, ya que llueve mucho en el norte de españa.
+  Si decide ir a Galicia en moto iras a comprar un poncho para realizar el viaje, ya que llueve mucho en el norte de españa.
   Puedes decidir ir a cogen un camino por autopista, monotono y tranquilo o uno más interesantes, con saltos y caminos de  
   cabras.
 
@@ -42,15 +42,27 @@ Introduccion: Juan decide hacer un viaje por el pais de España y tiene que deci
 
   Juan tiene distintas opciones, entre ellas ir a un bar a desallunar un rico bocata de Jamos Iberico con un Zumo de naraja, o irse a dar una vuelta por la estacion de tren.
 
-  - Bar: Juan se va a comprar el desayuno al bar más cercano que encuentar, compra el bocata y el zumo y se va a sentar en la mesa mas cercana que encuentra. Pero por lastima debe irse a lavar las manos y deja sin vigilancia su bocata, su zumo y su maleta.
+  Bar:
+  -Juan se va a comprar el desayuno al bar más cercano que encuentar, compra el bocata y el zumo y se va a sentar en la mesa mas cercana que encuentra. Pero por lastima debe irse a lavar las manos y deja sin vigilancia su bocata, su zumo y su maleta.
   
     Al volver del baño, no se encuantra su maleta y se pone muy nervioso, ya que tiene todas sus pertenencias dentro de ella, y decide en ir a busacar la maleta por el solo o ir a los guardas de la estacion para mirar las camaras y ver queien se la ha robado.
 
-  - Paseo: Juan decide ir a investigar la estacion y conocerla un poco, pasa el tiempo y llega la hora de envarque para subir al tren. Consigue subir y sentarse en su asiento y dejar su maleta segura.
+  Paseo:
+  - Juan decide ir a investigar la estacion y conocerla un poco, pasa el tiempo y llega la hora de envarque para subir al tren. Consigue subir y sentarse en su asiento y dejar su maleta segura.
 
     Pasa el tiempo y el tren arranca direccion Madrid, pero decide dar otro paseo para ver como es el tren e intentar comprar algo en el vagos bar, ya que no ha desayunado nada.
 
-  
+  Bar 2:
+ - Juan se va del Bar a buscar quien le ha robado la maleta, tarda tanto en buscar que no encuentra quen le ha robado la malata y lastimosamente a perdido el tren, ya que ha estado tan distraido en buscar su maleta que se le a pasado que hiba a ir a Madrid. Al final no consigue su maleta y se queda en Barcelona sin poder hacer su viaje.
+   
+  - Juan decide ir a la sala de seguridad para ver las camaras y conseguir identificar quien le ha robado la maleta. Despes de ver las grabaciones ve que ha sido indigente que se la ha robado, y despes de que la gente se diese cuenta que la habia robado, la deja en medio de la estacion de Sants.
+ - Juan va a buscarla y milagrosamente la maleta esta intacta y en el sitio dende la habia dejado el indigente.
+ - Al final, Juan logra subirse al tren direccion a Madrid y llegar a salvo.
+    
+   Paseo 2:
+   - Juan llega al Bar del tren y se compra unos donuts con cafe y se vuelva para su asiento. Juan se acaba su desayuno y decide tomar una pequeña siesta, ya que no tiene nada mejor que hacer con su vida.
+   - Juan ya ha llegado a atocha, estacion de Madrid y decide cogen un taxi para llegar al hotel más lujoso de la capital. (De Valencia a Madrid)
+
 
 
 
