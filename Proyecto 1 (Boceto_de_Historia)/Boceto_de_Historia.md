@@ -31,8 +31,9 @@ Introduccion: Juan decide hacer un viaje por el pais de España y tiene que deci
 - ### Coche:
 
   Decide irse a Andalucia por la costa y disfrutar su vieje en coche.
+  Juan sale de su casa direccion a Andalucia
 
-  Juan sale de su casa direccion a  Andalucia
+  Juan 
 
 - ### Tren:
 
@@ -62,13 +63,5 @@ Introduccion: Juan decide hacer un viaje por el pais de España y tiene que deci
  - Al final, Juan logra subirse al tren direccion a Madrid y llegar a salvo.
     
    Paseo 2:
-   - Juan llega al Bar del tren y se compra unos donuts con cafe y se vuelva para su asiento. Juan se acaba su desayuno y decide tomar una pequeña siesta, ya que no tiene nada mejor que hacer con su vida.
-   - Juan ya ha llegado a atocha, estacion de Madrid y decide cogen un taxi para llegar al hotel más lujoso de la capital. (De Valencia a Madrid)
-
-
-
-
-
-
-
-
+ - Juan llega al Bar del tren y se compra unos donuts con cafe y se vuelva para su asiento. Juan se acaba su desayuno y decide tomar una pequeña siesta, ya que no tiene nada mejor que hacer con su vida.
+- Juan ya ha llegado a atocha, estacion de Madrid y decide cogen un taxi para llegar al hotel más lujoso de la capital. (De Valencia a Madrid)
