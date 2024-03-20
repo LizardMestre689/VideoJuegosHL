@@ -32,8 +32,30 @@ Introduccion: Juan decide hacer un viaje por el pais de España y tiene que deci
 
   Decide irse a Andalucia por la costa y disfrutar su vieje en coche.
   Juan sale de su casa direccion a Andalucia
+  Juan en medio del camino observa que se esta quedando sin gasolina y decide parar en la gasolinera más cercana.
 
-  Juan 
+  Al parar Juan va a poner gasolina y pagarla, pero esta indeciso si comprar unos Snaks para el viaje o parar a ir al baño y hacer sus necesidades.
+
+Evento Alternativo: Evento Canonico
+
+Evento canonico:
+  - Este evento canocico a Juan le roban el Coche y no puede hacer nada más [[:(]]. Se queda en la gasolinera hasta que le recojan y vuelva a su casa.
+    
+Snaks:
+- Juan se va a comprar unas galletas que le gustan mucho y un batido proteico el cual le ayuda a conseguir sus carbs del dia y unas chuches.
+
+- Pero mientars se come los Snaks en el coche le duele muchisimo la barriga y le da un corte de digestion y tiene que parar a ir al baño lo antes posible.
+
+Para en el baño:
+-Al parar para ir al baño consigue hacer sus necesidades y vaciar todo, pero al intentar salir del baño, se da cuenta que no puede y la puerta esta atascada y no puede salir.
+
+Intenta pedir ayuda
+
+Para en el baño y despues de snaks:
+- Hay gente que lo escucha y le consiguen ayudar. Juan sale del baño y sigue con su viaje a Andalucia.
+
+- Juan llega a Andalucia y consigue un hotel barato despeus de el vieje que ha tenido. Consigue descansar y visitar la caluqrosa ciudad.
+
 
 - ### Tren:
 
