@@ -16,6 +16,10 @@ Esta Imagen es de mi propiedad, la he sacado yo.
 
 ## Proceso de la Historia: 
 
+El procesode creacion de la historia a sido bastante seguido, no he tenido ningunos problemas al crear la historia de haventura ya que me lo habia plandeado y organizado muy bien en mi opinion, e logrado el objetivo en el tiempo deseado sin ningun tipo de invonveniente.
+
+Aqui abajo dejo el boceto extenso de la historia:
+
 - Personaje Principal: Juan 
 
 Introducción: Juan decide hacer un viaje por el país de España y tiene que decidir con que medio de transporte ara este viaje (Moto, Coche, Tren). Dependiendo de que transporte decide usar, vivirá distintos eventos que le llevaran a experimentar distintas aventuras. 
