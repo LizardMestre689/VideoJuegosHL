@@ -1,15 +1,18 @@
-  # Boceto de Historia
+  # Boceto de Historia (El viaje de Juan)
+  
 ---
 
 ## Concepto de la Historia:  
 
+El concepto de esta historia trata sobre el personaje principal que se llama Juan, Juan decide aventurarse a un vieje por España y tiene tres opciones de vieje. Irse a Madrid en tren, a Andalucía en coche o a Galicia en moto. Dependiendo de lo que elija vivirá distintos eventos y vivirá diversas experiencias. 
 
 
 ## El boceto de la historia: 
+
+ 
  ![thumbnail_IMG_4438](https://github.com/LizardMestre689/VideoJuegosHL/assets/144990985/cdc52b5a-1e5d-4779-98a4-dc509e2920aa)
 
-
-
+Esta Imagen es de mi propiedad, la he sacado yo.
 
 ## Proceso de la Historia: 
 
@@ -62,7 +65,7 @@ Al parar Juan va a poner gasolina y pagarla, pero está indeciso si comprar unos
 
 Evento canónico: 
 
-Este evento canónico a Juan le roban el Coche y no puede hacer nada más [[:(]]. Se queda en la gasolinera hasta que le recojan y vuelva a su casa. 
+Este evento canónico a Juan le roban el Coche y no puede hacer nada más :(. Se queda en la gasolinera hasta que le recojan y vuelva a su casa. 
 
 - Snacks: 
 
