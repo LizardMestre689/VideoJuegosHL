@@ -144,6 +144,8 @@ Se queda una semanita y disfruta de las instalaciones y de todos los servicios q
 
 https://twinery.org/2/#/stories/159a5118-7cc9-46c5-ad0b-4c9bb3e2edca 
 
+https://twinery.org/2/#/stories/159a5118-7cc9-46c5-ad0b-4c9bb3e2edca/test/4a0a869c-e762-4a28-ad3e-274b11d5ec1b
+
 --- 
 
 ## Fotografías: 
