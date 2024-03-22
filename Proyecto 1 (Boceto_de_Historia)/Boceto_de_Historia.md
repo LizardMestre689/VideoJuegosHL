@@ -20,7 +20,9 @@ Esta Imagen es de mi propiedad, la he sacado yo.
 
 Introducción: Juan decide hacer un viaje por el país de España y tiene que decidir con que medio de transporte ara este viaje (Moto, Coche, Tren). Dependiendo de que transporte decide usar, vivirá distintos eventos que le llevaran a experimentar distintas aventuras. 
 
-- Moto: 
+## Moto: 
+
+---
 
 Comienza el Viaje y decide irse a Galicia en moto. 
 
@@ -41,7 +43,6 @@ Juan decide quedarse a esperar a que la autopista se despeje para continuar, per
 
 Juan decide pasar el atasco y llegar más rápido, pero al parecer había una patrulla en la zona y tiene la opción de parar y que le pongan una multa o escapar e intentar no ser detenido. 
 
- 
 
 - Camino de cabras 2: 
 
@@ -49,13 +50,13 @@ Juan va por el camino envarado y acaba con toda la moto muy sucia y llena de bar
 
 Juan decide ir por el pasto de animales, en este paso se divierte porque hay muchos saltos y se divierte. Pero al no ver un animal que pasaba por la zona y se cae con la moto. Juan está muy malherido y lo tienen que llevar en ambulancia hacia el hospital de Galicia. Juan consigue llagar a Galicia, pero no de la manera que pensaba. 
 
- 
-
 - Autopista 3: 
 
 Juan intenta escapar de la policía, los consigue evadir, pero por desgracia se cae de la moto y lo arrestan. Se lo llevan a la cárcel de Galicia, al final llega, pero no de la manera que esperaba. 
 
-- Coche: 
+## Coche: 
+
+--- 
 
 Decide irse a Andalucía por la costa y disfrutar su vieje en coche. Juan sale de su casa dirección a Andalucía Juan en medio del camino observa que se está quedando sin gasolina y decide parar en la gasolinera más cercana. 
 
@@ -85,7 +86,9 @@ Hay gente que lo escucha y le consiguen ayudar. Juan sale del baño y sigue con 
 
 Juan llega a Andalucía y consigue un hotel barato después del vieje que ha tenido. Consigue descansar y visitar la calurosa ciudad. 
 
-- Tren: 
+## Tren: 
+
+---
 
 Se monta en un Tren el cual se dirige hacia Madrid. 
 
