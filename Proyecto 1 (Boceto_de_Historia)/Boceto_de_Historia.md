@@ -175,7 +175,9 @@ Source: Own work
 
 Author: Alexander-93 
 
-Licensing: This file is licensed under the Creative Commons Attribution-Share Alike 4.0 International license. 
+Licensing: I, the copyright holder of this work, hereby publish it under the following license:
+
+- This file is licensed under the Creative Commons Attribution-Share Alike 4.0 International license. 
 
 ![image](https://github.com/LizardMestre689/VideoJuegosHL/assets/144990985/f1bcd22a-ff5d-42c8-8e53-1647aa046ee9)
 
@@ -190,6 +192,8 @@ Source: Own work
 
 Author: CARLOS TEIXIDOR CADENAS 
 
-Licensing:This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license. 
+Licensing: I, the copyright holder of this work, hereby publish it under the following license:
+
+- This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license. 
 
 ![image](https://github.com/LizardMestre689/VideoJuegosHL/assets/144990985/abef5568-0f57-414c-87fe-0061eeae6b1d)
